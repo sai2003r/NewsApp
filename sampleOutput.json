@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Watch: Celtic host Morton in Scottish Cup fourth round",
+            "description": "Watch live BBC One Scotland coverage, listen to Sportsound commentary, watch in-play clips and follow text updates as Celtic host Championship side Morton in the Scottish Cup fourth round.",
+            "url": "http://www.bbc.co.uk/sport/live/football/64285433",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-01-21T12:07:23.7081925Z",
+            "content": "Celtic: Hart, Johnston, Starfelt, Kobayashi, Bernabei, Mooy, McGregor, Turnbull, Abada, Kyogo, Maeda.\r\nSubstitutes: Bain, Haksabanovic, Jota, Iwata, O'Riley, Hatate, Forrest, Lawal, Welsh.\r\nMorton: S… [+180 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": null,
+            "title": "Judge orders government to repatriate 4 Canadian men held in Syrian camps",
+            "description": "A judge has ordered the Liberal government to help bring home four Canadian men being held in Syrian camps. Federal Court Justice Henry Brown has directed Ottawa to request repatriation of the men as soon as reasonably possible and provide them with passports…",
+            "url": "https://www.ctvnews.ca/canada/judge-orders-government-to-repatriate-4-canadian-men-held-in-syrian-camps-1.6239803",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/1/20/jack-letts-1-6239808-1674255725407.jpg",
+            "publishedAt": "2023-01-20T23:02:00+00:00",
+            "content": "OTTAWA - \r\nA judge has declared that four Canadian men being held in Syrian camps are entitled to the federal government's help to return home.\r\nIn a ruling Friday, Federal Court Justice Henry Brown … [+3348 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Mark White",
+            "title": "Pep Guardiola interview: Every word of the Manchester City manager's furious Sky Sports appearance",
+            "description": "The Pep Guardiola interview from after Manchester City's win over Tottenham might be the fieriest we've ever seen from the Catalan",
+            "url": "https://www.fourfourtwo.com/news/pep-guardiola-interview-every-word-of-the-manchester-city-managers-furious-sky-sports-appearance",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/n6EDWgcnxej4LnpGqQH2tC-1200-80.jpg",
+            "publishedAt": "2023-01-20T11:04:20Z",
+            "content": "A Pep Guardiola interview for the ages? Few have ever seen the Manchester City boss quite so animated, as he questioned the desire of his players and fans.\r\nSpeaking to Sky Sports (opens in new tab)'… [+5239 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Kirstie McDermott",
+            "title": "What the hell is job boomeranging and why is it trending right now?",
+            "description": "Not, in fact, a fun sports perk offered by tech companies eager to keep up with the latest in compensation trends, “job boomeranging” is actually a rising workplace trend. In a ...",
+            "url": "http://thenextweb.com/news/what-the-hell-is-job-boomeranging-and-why-is-it-trending-right-now",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FUntitled-design-1-2.jpg&signature=4c4af361f8542f065c537628b21041e4",
+            "publishedAt": "2023-01-17T08:57:07Z",
+            "content": "Not, in fact, a fun sports perk offered by tech companies eager to keep up with the latest in compensation trends, job boomeranging is actually a rising workplace trend. In a nutshell, its when a for… [+4831 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+            "urlToImage": null,
+            "publishedAt": "2022-12-01T18:52:49.4768049Z",
+            "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Caroline Downey",
+            "title": "Man Wins Elite Women’s Race at International Cyclocross Tournament",
+            "description": "Killips has an online blog, Estro Junkie, which he calls ‘a newsletter about the intersection of sports and queer theory.’",
+            "url": "https://www.nationalreview.com/news/man-wins-elite-womens-race-at-international-cyclocross-tournament/",
+            "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/10/transgender-flag.jpg?fit=2057%2C1200",
+            "publishedAt": "2022-11-15T02:37:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "☄️ NEW ANIME JUST DROPPED ☄️",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/289173-ja-vs-zion-anime",
+            "urlToImage": null,
+            "publishedAt": "2022-11-14T22:07:16.2323649Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        },
+        {
+            "source": {
+                "id": "nrk",
+                "name": "NRK"
+            },
+            "author": "NRK",
+            "title": "De siste sportsnyhetene fra NRK",
+            "description": "Her får du de siste sportsnyhetene fra NRK.",
+            "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16266057.1.16266057",
+            "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+            "publishedAt": "2019-08-14T09:09:42Z",
+            "content": "21. januar2023kl.11:07Fra sent startnummer, sjokkerte Kajsa Vickhoff Lie og tok andreplassen i Cortina. Det er den første pallplassen hennes etter skadeavbrekket.\r\n Det er helt ellevillt. Jeg har ikk… [+936 chars]"
+        }
+    ]
+}
